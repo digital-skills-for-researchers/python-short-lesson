@@ -17,23 +17,6 @@ Email one of the team to request an invite:
 - Neil Birrell [nbir012@aucklanduni.ac.nz](mailto:"nbir012@aucklanduni.ac.nz")
 
 
-## Contributions
-
-To submit changes or corrections please:
-
-- Fork this project
-- Make and commit the correction
-- Submit a pull request
-
-If you have many changes to submit please:
-
-- Fork this project
-- **Create a branch** for each logical grouping of changes
-- Make and commit the corrections
-- Submit a separate pull request for each branch / change
-
-Please keep pull requests small to help us merge your suggestions more efficiently.
-
 
 ## Attributions
 
